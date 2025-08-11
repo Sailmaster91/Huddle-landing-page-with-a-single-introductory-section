@@ -139,10 +139,10 @@ body{
             & {
                 grid-template-columns: 1fr;
                 height: auto;
-                padding: 20px;
+                padding: 30px;
                 justify-items: center;
                 .img-hero{
-                    width: 90%;
+                    width: 100%;
                 
 
                 }
